@@ -10,5 +10,5 @@ Instruction:
 End of instruction.
 
 EN: Leave feedback - https://forms.gle/ucCZFjMBoK9pADQG9
-n\
+
 RU: Оставить отзыв - https://forms.gle/ucCZFjMBoK9pADQG9
