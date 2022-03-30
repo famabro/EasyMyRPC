@@ -8,3 +8,6 @@ Instruction:
 2. Save the file and run EasyMyRP.exe.
 
 End of instruction.
+
+EN: Leave feedback - https://forms.gle/ucCZFjMBoK9pADQG9
+RU: Оставить отзыв - https://forms.gle/ucCZFjMBoK9pADQG9
