@@ -1,7 +1,7 @@
 Why MyRichPresence?
 
 1. Not demanding on a PC
-2. Ease of use
+2. Easy of use
 
 Instruction:
 1. We go into Settings.ini and set our own values
