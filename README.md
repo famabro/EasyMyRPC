@@ -4,6 +4,7 @@ Why MyRichPresence?
 2. Easy of use
 
 Instruction:
+
 How to create an application ID?
 - Go to https://discord.com/developers/applications and create an application
 
