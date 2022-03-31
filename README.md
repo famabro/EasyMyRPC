@@ -11,6 +11,8 @@ How to create an application ID?
 1. We go into Settings.ini and set our own values
 2. Save the file and run EasyMyRP.exe.
 
+- Not working? Install Python!
+
 End of instruction.
 
 EN: Leave feedback - https://forms.gle/ucCZFjMBoK9pADQG9
